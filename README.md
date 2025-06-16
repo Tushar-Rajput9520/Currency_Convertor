@@ -12,7 +12,13 @@ It allows users to convert an amount from one currency to another using real-tim
 
 ## 📸 Preview
 
-![Currency Converter Preview](https://images.pexels.com/photos/3532540/pexels-photo-3532540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+Here’s how the app looks:
+
+![App UI Preview](https://user-images.githubusercontent.com/your-github-id/project-screenshot.png)
+
+> 📌 *Replace the above image link with an actual screenshot of your app UI hosted on GitHub, Imgur, or any image service.*
+
+
 
 ---
 
@@ -37,3 +43,60 @@ It allows users to convert an amount from one currency to another using real-tim
 
 ## 📁 Project Structure
 
+currency_converter/
+├── components/
+│ └── InputBox.jsx
+├── hook/
+│ └── useCurrencyInfo.js
+├── App.jsx
+└── index.css / main.jsx
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧪 Learning Outcomes
+
+- Using **React Hooks** (`useState`, `useEffect`)
+- Creating **custom hooks**
+- Fetching data using **APIs**
+- Passing props and lifting state up
+- Tailwind CSS styling and layout
+- Resolving Git/GitHub conflicts 😄
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/currency-converter.git
+
+# Go to project directory
+cd currency-converter
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
+🙌 Author
+Made with ❤️ by Tushar Rajput
+
+📃 License
+This project is open-source and free to use under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if:
+- You want me to add badges (like React, Tailwind, etc.)
+- You want to auto-generate a Vercel deployment link
+- You want this in Hindi or in short version for beginners
+
+Happy coding 🚀
